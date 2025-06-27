@@ -1,0 +1,14 @@
+friends:
+  label: Friends
+  permalink: /friends
+  description: Friends tag description
+
+family:
+  label: Family
+  permalink: /family
+  description: Family tag description
+
+idols:
+  label: Idols
+  permalink: /idols
+  description: Idols tag description
